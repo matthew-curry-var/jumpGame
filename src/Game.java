@@ -1,5 +1,5 @@
 public class Game {
     public static void main(String[] args) {
-        System.out.println("SUCCESS");
+        Window w1 = new Window(500, 500, "TestFrameTitle");
     }
 }
